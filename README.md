@@ -1,0 +1,2 @@
+# time-series-class-activation-mapping
+This project is to use the cam algorithm to find the regions that are more important to the classification in the time series. But different with images, time series can't use heatmap to visualization. We can only visualize the cam after the final weighting to see what different regions have larger values for different classes. So if you have a good idea, please tell me.
